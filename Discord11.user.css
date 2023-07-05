@@ -27,9 +27,6 @@
     if messageBuble==left {
         @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubbleleft.css);
     }
-    else if messageBuble==default {
-        @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubble11.css);
-    }
     else if messageBuble==new {
         @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubblenew.css);
     }
